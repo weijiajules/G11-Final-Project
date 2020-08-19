@@ -18,8 +18,7 @@ public class CarRecall {
             } else {
                 c.println("Your car is fine. Your car is not defective.");
             }
-            
-
+           
         }
 
     }
